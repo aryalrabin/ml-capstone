@@ -35,8 +35,6 @@ The software requirements are mentioned in the `requirements.txt`
  
 ```pip3 install -r requirements.txt```
 
-<br>
-Run the command: ```pip3 install -r requirements.txt```.
 
 ### Running the software
 
